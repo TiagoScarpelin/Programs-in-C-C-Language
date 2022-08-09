@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+  
+    int variavel;
+  
+    printf("Digite a sua idade! \n");
+  
+    scanf("%d",&variavel);
+    
+    printf("Voce tem %d anos",variavel);
+    
+    return 0;
+}
